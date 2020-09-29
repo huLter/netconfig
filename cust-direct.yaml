@@ -115,6 +115,9 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,outlook.office365.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,live.com
 # > NetEase
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,126.net
