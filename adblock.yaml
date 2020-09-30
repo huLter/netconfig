@@ -32,6 +32,8 @@ payload:
   
 # > Soptify
   - DOMAIN-SUFFIX,adeventtracker.spotify.com
+  - DOMAIN-SUFFIX,adsrvr.org
+  - DOMAIN-SUFFIX,pr.ybp.yahoo.com
 
 #https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 
