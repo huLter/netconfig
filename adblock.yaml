@@ -28,6 +28,10 @@ payload:
   - DOMAIN-KEYWORD,wlmonitor
   - DOMAIN-KEYWORD,zjtoolbar
   - IP-CIDR,124.14.21.147/32,no-resolve
+  
+  
+# > Soptify
+  - DOMAIN-SUFFIX,adeventtracker.spotify.com
 
 #https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 
