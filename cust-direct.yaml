@@ -273,7 +273,7 @@ payload:
   - DOMAIN-SUFFIX,51ym.me
   - DOMAIN-SUFFIX,8686c.com
   - DOMAIN-SUFFIX,abchina.com
-  - DOMAIN-SUFFIX,accuweather.com
+#  - DOMAIN-SUFFIX,accuweather.com
   - DOMAIN-SUFFIX,aicoinstorge.com
   - DOMAIN-SUFFIX,air-matters.com
   - DOMAIN-SUFFIX,air-matters.io
