@@ -7,10 +7,10 @@ payload:
   - DOMAIN-SUFFIX,qhimg.com
 # > Akamai
   - DOMAIN-SUFFIX,akadns.net
-# DOMAIN-SUFFIX,akamai.net
-# DOMAIN-SUFFIX,akamaiedge.net
-# DOMAIN-SUFFIX,akamaihd.net
-# DOMAIN-SUFFIX,akamaistream.net
+  - DOMAIN-SUFFIX,akamai.net
+  - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,akamaistream.net
   - DOMAIN-SUFFIX,akamaized.net
 # > Alibaba
   - DOMAIN-SUFFIX,alibaba.com
