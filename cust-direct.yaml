@@ -1,4 +1,33 @@
 payload:
+# > zyplayer
+  - DOMAIN-SUFFIX,okzy.tv
+  - DOMAIN-SUFFIX,zdziyuan.com
+  - DOMAIN-SUFFIX,1988cj.com
+  - DOMAIN-SUFFIX,zycjw1.com
+  - DOMAIN-SUFFIX,kuyun98.com
+  - DOMAIN-SUFFIX,shijiapi.com
+  - DOMAIN-SUFFIX,subo988.com
+  - DOMAIN-SUFFIX,1156zy.com
+  - DOMAIN-SUFFIX,zuixinapi.com
+  - DOMAIN-SUFFIX,kbzyapi.com
+  - DOMAIN-SUFFIX,yongjiuzyw.com
+  - DOMAIN-SUFFIX,123ku2.com
+  - DOMAIN-SUFFIX,88zyw.net
+  - DOMAIN-SUFFIX,wlzy.tv
+  - DOMAIN-SUFFIX,mhapi123.com
+  - DOMAIN-SUFFIX,kkzy.tv
+  - DOMAIN-SUFFIX,158zyz.net
+  - DOMAIN-SUFFIX,rrzyw.cc
+  - DOMAIN-SUFFIX,heiyap.com
+  - DOMAIN-SUFFIX,kyzy.tv
+  - DOMAIN-SUFFIX,caijizy.vip
+  - DOMAIN-SUFFIX,bbkdj.com
+  - DOMAIN-SUFFIX,1886zy.co
+  - DOMAIN-SUFFIX,mb77.vip
+
+# > cloudfront
+  - DOMAIN-SUFFIX,cloudfront.net
+
 #https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list
 # Domestic.list
 # China Area Network
@@ -379,28 +408,4 @@ payload:
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,cdn.angruo.com
 
-#zyplayer
-  - DOMAIN-SUFFIX,okzy.tv
-  - DOMAIN-SUFFIX,zdziyuan.com
-  - DOMAIN-SUFFIX,1988cj.com
-  - DOMAIN-SUFFIX,zycjw1.com
-  - DOMAIN-SUFFIX,kuyun98.com
-  - DOMAIN-SUFFIX,shijiapi.com
-  - DOMAIN-SUFFIX,subo988.com
-  - DOMAIN-SUFFIX,1156zy.com
-  - DOMAIN-SUFFIX,zuixinapi.com
-  - DOMAIN-SUFFIX,kbzyapi.com
-  - DOMAIN-SUFFIX,yongjiuzyw.com
-  - DOMAIN-SUFFIX,123ku2.com
-  - DOMAIN-SUFFIX,88zyw.net
-  - DOMAIN-SUFFIX,wlzy.tv
-  - DOMAIN-SUFFIX,mhapi123.com
-  - DOMAIN-SUFFIX,kkzy.tv
-  - DOMAIN-SUFFIX,158zyz.net
-  - DOMAIN-SUFFIX,rrzyw.cc
-  - DOMAIN-SUFFIX,heiyap.com
-  - DOMAIN-SUFFIX,kyzy.tv
-  - DOMAIN-SUFFIX,caijizy.vip
-  - DOMAIN-SUFFIX,bbkdj.com
-  - DOMAIN-SUFFIX,1886zy.co
-  - DOMAIN-SUFFIX,mb77.vip
+
