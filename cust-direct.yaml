@@ -25,9 +25,6 @@ payload:
   - DOMAIN-SUFFIX,1886zy.co
   - DOMAIN-SUFFIX,mb77.vip
 
-# > cloudfront
-  - DOMAIN-SUFFIX,cloudfront.net
-
 #https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Domestic.list
 # Domestic.list
 # China Area Network
