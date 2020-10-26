@@ -97,6 +97,11 @@ payload:
   - DOMAIN-SUFFIX,kuyunbo.club
 # > Gameloft
   - DOMAIN-SUFFIX,gameloft.com
+# > Google
+  - DOMAIN-SUFFIX,googletraveladservices.com
+  - DOMAIN,dl.google.com
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,safebrowsing.googleapis.com
 # > HunanTV
   - DOMAIN-SUFFIX,hitv.com
   - DOMAIN-SUFFIX,mgtv.com
@@ -137,7 +142,6 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,outlook.office365.com
   - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,live.com
 # > NetEase
   - DOMAIN-SUFFIX,163.com
@@ -404,5 +408,3 @@ payload:
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,cdn.angruo.com
-
-
