@@ -6,3 +6,5 @@ payload:
   - DOMAIN-SUFFIX,accuweather.com
 # > RTHK
   - DOMAIN-SUFFIX,rthk.hk
+# > GitHub
+  - DOMAIN-SUFFIX,githubusercontent.com
