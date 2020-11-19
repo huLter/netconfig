@@ -1,0 +1,6 @@
+  payload:
+  # > FCM PUSH
+  - DOMAIN-KEYWORD,mtalk.google
+  - DOMAIN-SUFFIX,clients.google.com
+  - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,fcm.googleapis.com
