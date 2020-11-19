@@ -1,7 +1,6 @@
   payload:
   # > TVB NEWS
   - DOMAIN-SUFFIX,youboranqs01.com
-  - DOMAIN-SUFFIX.com
-  - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-KEYWORDanywhere
-  - DOMAIN-KEYWORDcomeservicebus
+  - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-KEYWORD,tvbanywhere
+  - DOMAIN-KEYWORD,tvbcomeservicebus
