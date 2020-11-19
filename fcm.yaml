@@ -4,3 +4,4 @@
   - DOMAIN-SUFFIX,clients.google.com
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,fcm.googleapis.com
+  - DOMAIN-SUFFIX,fcm-xmpp.googleapis.com
