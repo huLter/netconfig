@@ -8,3 +8,5 @@ payload:
   - DOMAIN-SUFFIX,rthk.hk
 # > GitHub
   - DOMAIN-SUFFIX,githubusercontent.com
+# > Android Connectivity Check
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
