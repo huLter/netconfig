@@ -1,5 +1,5 @@
-  payload:
-  # > TVB NEWS
+payload:
+# > TVB NEWS
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvbanywhere

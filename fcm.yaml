@@ -1,4 +1,4 @@
-  payload:
+payload:
   # > FCM PUSH
   - DOMAIN-KEYWORD,mtalk.google
   - DOMAIN-SUFFIX,android.clients.google.com
