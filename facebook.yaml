@@ -1,5 +1,6 @@
 payload:
 # > Facebook, include facebook-dev instagram messenger oculus whatsapp
+  - PROCESS-NAME,com.instagram.android
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com
   - DOMAIN-SUFFIX,acebooik.com

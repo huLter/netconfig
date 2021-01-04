@@ -1,5 +1,6 @@
 payload:
 # > TVB NEWS
+  - PROCESS-NAME,com.tvb.iNews
   - DOMAIN-SUFFIX,youboranqs01.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-KEYWORD,tvbanywhere
