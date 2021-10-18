@@ -1,5 +1,6 @@
 payload:
 # > Instagram
+  - PROCESS-NAME,com.instagram.android
   - DOMAIN-SUFFIX,achat-followers-instagram.com
   - DOMAIN-SUFFIX,acheter-followers-instagram.com
   - DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
