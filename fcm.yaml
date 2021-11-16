@@ -1,6 +1,15 @@
 payload:
   # > FCM PUSH
   - DOMAIN-KEYWORD,mtalk.google
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,alt2-mtalk.google.com
+  - DOMAIN,alt3-mtalk.google.com
+  - DOMAIN,alt4-mtalk.google.com
+  - DOMAIN,alt5-mtalk.google.com
+  - DOMAIN,alt6-mtalk.google.com
+  - DOMAIN,alt7-mtalk.google.com
+  - DOMAIN,alt8-mtalk.google.com  
   - DOMAIN-SUFFIX,android.clients.google.com
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,fcm.googleapis.com
